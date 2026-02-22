@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "presentation": "Presentación",
+    "concepts": "Conceptos",
+    "examples": "Ejemplos",
+    "prevention": "Prevención",
+    "quiz": "Quiz",
+    "references": "Referencias"
+  },
+  "hero": {
+    "title": "Amenazas Persistentes Avanzadas",
+    "subtitle": "APT",
+    "description": "Una exposición completa sobre las amenazas cibernéticas más sofisticadas del mundo digital moderno",
+    "authors": "Presentado por Karly Velásquez Acosta y Mateo Botero Echeverri",
+    "course": "Electiva de Profundización II",
+    "startButton": "Comenzar Presentación"
+  },
+  "objectives": {
+    "title": "Objetivos de Aprendizaje",
+    "subtitle": "Lo que aprenderás en esta presentación",
+    "identify": {
+      "title": "Identificar",
+      "description": "Las diferentes amenazas APT y sus características distintivas"
+    },
+    "analyze": {
+      "title": "Analizar",
+      "description": "El funcionamiento, origen y evolución de las amenazas persistentes"
+    },
+    "implement": {
+      "title": "Implementar",
+      "description": "Estrategias de prevención y mitigación contra ataques APT"
+    },
+    "evaluate": {
+      "title": "Evaluar",
+      "description": "El impacto de APT en organizaciones colombianas e internacionales"
+    }
+  },
+  "concepts": {
+    "title": "¿Qué son las APT?",
+    "subtitle": "Entendiendo las Amenazas Persistentes Avanzadas",
+    "advanced": {
+      "title": "Avanzado",
+      "description": "Técnicas sofisticadas y herramientas de última generación"
+    },
+    "persistent": {
+      "title": "Persistente",
+      "description": "Acceso prolongado durante meses o años"
+    },
+    "threat": {
+      "title": "Amenaza",
+      "description": "Peligro real para la seguridad de la información"
+    }
+  },
+  "darkMode": {
+    "toggle": "Cambiar modo"
+  }
+}

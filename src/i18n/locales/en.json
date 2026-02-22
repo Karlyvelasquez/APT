@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "home": "Home",
+    "presentation": "Presentation",
+    "concepts": "Concepts",
+    "examples": "Examples",
+    "prevention": "Prevention",
+    "quiz": "Quiz",
+    "references": "References"
+  },
+  "hero": {
+    "title": "Advanced Persistent Threats",
+    "subtitle": "APT",
+    "description": "A comprehensive exposition on the most sophisticated cyber threats in the modern digital world",
+    "authors": "Presented by Karly Velásquez Acosta and Mateo Botero Echeverri",
+    "course": "Specialization Elective II",
+    "startButton": "Start Presentation"
+  },
+  "objectives": {
+    "title": "Learning Objectives",
+    "subtitle": "What you'll learn in this presentation",
+    "identify": {
+      "title": "Identify",
+      "description": "Different APT threats and their distinctive characteristics"
+    },
+    "analyze": {
+      "title": "Analyze",
+      "description": "The functioning, origin and evolution of persistent threats"
+    },
+    "implement": {
+      "title": "Implement",
+      "description": "Prevention and mitigation strategies against APT attacks"
+    },
+    "evaluate": {
+      "title": "Evaluate",
+      "description": "The impact of APT on Colombian and international organizations"
+    }
+  },
+  "concepts": {
+    "title": "What are APTs?",
+    "subtitle": "Understanding Advanced Persistent Threats",
+    "advanced": {
+      "title": "Advanced",
+      "description": "Sophisticated techniques and cutting-edge tools"
+    },
+    "persistent": {
+      "title": "Persistent",
+      "description": "Prolonged access for months or years"
+    },
+    "threat": {
+      "title": "Threat",
+      "description": "Real danger to information security"
+    }
+  },
+  "darkMode": {
+    "toggle": "Toggle mode"
+  }
+}

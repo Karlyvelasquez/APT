@@ -1,0 +1,19 @@
+# Video Placeholder
+
+Para que el sitio funcione correctamente, necesitas agregar un archivo llamado "video.mp4" en esta carpeta public/.
+
+El video debe ser:
+- Resolución recomendada: 1920x1080 o superior
+- Formato: MP4 (H.264)
+- Duración: 30-60 segundos (puede ser en loop)
+- Temática: Relacionada con ciberseguridad, tecnología o conceptos profesionales
+- Sin audio o audio muy bajo
+
+Una vez agregues el archivo video.mp4, elimina este archivo placeholder.
+
+Sugerencias de contenido para el video:
+- Animaciones de código
+- Gráficos de redes/servidores
+- Efectos visuales tecnológicos
+- Transiciones geométricas modernas
+- Patrones digitales/binarios
