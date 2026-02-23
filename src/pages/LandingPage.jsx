@@ -123,6 +123,12 @@ export default function LandingPage() {
                   <Target className="mr-2 h-5 w-5" />
                   {t('nav.quiz')}
                 </button>
+                <button
+                  onClick={() => navigate('/answers')}
+                  className="btn-secondary inline-flex items-center justify-center bg-white/10 backdrop-blur-sm border-white text-white hover:bg-white hover:text-primary-600"
+                >
+                  Respuestas Quiz
+                </button>
                 <button 
                   onClick={() => navigate('/references')}
                   className="btn-secondary inline-flex items-center justify-center bg-white/10 backdrop-blur-sm border-white text-white hover:bg-white hover:text-primary-600"

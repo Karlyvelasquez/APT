@@ -7,6 +7,7 @@ import ExamplesPage from './pages/ExamplesPage'
 import PreventionPage from './pages/PreventionPage'
 import QuizPage from './pages/QuizPage'
 import ReferencesPage from './pages/ReferencesPage'
+import AnswersPage from './pages/AnswersPage'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/prevention" element={<PreventionPage />} />
           <Route path="/quiz" element={<QuizPage />} />
           <Route path="/references" element={<ReferencesPage />} />
+          <Route path="/answers" element={<AnswersPage />} />
         </Routes>
       </div>
     </Router>

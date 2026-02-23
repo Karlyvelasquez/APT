@@ -6,7 +6,7 @@ export default function QuizPage() {
         <p className="text-xl text-gray-600 dark:text-gray-300">Quiz sobre APT en desarrollo...</p>
         <div className="mt-8">
           <a 
-            href="https://kahoot.it" 
+            href="https://create.kahoot.it/details/4dbfa31a-7336-467e-8026-8201c0c2021b" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-orange-500 to-orange-600 text-white rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
